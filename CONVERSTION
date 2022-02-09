@@ -1,0 +1,9 @@
+km=float(input("enter kilometers"))
+cm=100000*km
+print("%.2f km = %.2f cm" %(km, cm))
+
+OUT PUT
+
+
+enter kilometers20
+20.00 km = 2000000.00 cm
